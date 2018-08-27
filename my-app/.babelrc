@@ -1,0 +1,10 @@
+// babel-preset-env
+// babel-preset-react
+
+{
+  "presets": [
+    "env",
+    "react"
+  ]
+}
+
